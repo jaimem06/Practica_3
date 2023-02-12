@@ -2,6 +2,27 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/Estrella/Estrella_Controller.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/TDA_Grafos/GrafoDE.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/TDA_Grafos/GrafoND.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/TDA_Grafos/Adyacencia.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/Exceptions/VerticeException.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/Exceptions/TopeException.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/Utilidades/Utilidades.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Modelo/TipoEstrella.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/Exceptions/PosicionException.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/TDA_Grafos/Grafo.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Vista/Tablas/ModeloTablaGrafoEtiquetado.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Modelo/Estrella.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Vista/FrmGrafo.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Vista/FrmGrafoVista.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Modelo/Ubicacion.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/Exceptions/GrafoConexionException.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/TDA_Grafos/GrafoEND.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/TDA_Grafos/GrafoD.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Vista/Tablas/ModeloTablaGrafo.java</file>
+            <file>file:/C:/Users/jaime/OneDrive/Documentos/NetBeansProjects/Practica3_Jaime/src/Controlador/Utilidades/TipoOrdenacion.java</file>
+        </group>
     </open-files>
 </project-private>

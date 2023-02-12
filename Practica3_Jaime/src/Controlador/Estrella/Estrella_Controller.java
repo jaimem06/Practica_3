@@ -21,7 +21,7 @@ public class Estrella_Controller {
         {
             Estrella p = new Estrella();
             p.setId(i);
-            p.setNombres("Persona " + i);
+            p.setNombres("Estrella " + i);
             p.setTipoEstrella(TipoEstrella.NORTE);
             Ubicacion u = new Ubicacion();
             u.setId(i);
